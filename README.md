@@ -5,10 +5,6 @@
 <br/>
 
 <div align="center">
-
-# `BioShield`
-### the art of innovating 
-
 <br/>
 
 [![Followers](https://img.shields.io/github/followers/bioshieldinnovations?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=00c9b1&labelColor=0d1117)](https://github.com/bioshieldinnovations?tab=followers)
