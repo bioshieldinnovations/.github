@@ -121,7 +121,7 @@ Every series we build targets three goals:
 
 ---
 
-## 📦 Featured products
+## 📦 representative products
 
 <table>
   <thead>
