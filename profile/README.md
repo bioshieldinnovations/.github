@@ -133,28 +133,28 @@ Every series we build targets three goals:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/bioshieldinnovations/symbiosis-core"><b>Symbiosis Core</b></a></td>
-      <td>Generative design algorithms for Series 01: Creating organic, 3D-printed biomaterial structures.</td>
+      <td><a href="https://github.com/bioshieldinnovations/symbiosis-core"><b>Eclipson</b></a></td>
+      <td>A modular human-machine ecosystem that enhances local AI models through advanced integration, automation, and adaptive technology.</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/bioshieldinnovations/eco-mesh-engine"><b>EcoMesh Engine</b></a></td>
-      <td>High-performance simulation engine calculating structural integrity of living mycelium and eco-composites.</td>
+      <td><a href="https://github.com/bioshieldinnovations/eco-mesh-engine"><b>VM-DC</b></a></td>
+      <td>A capacitor-based voltage multiplication system designed to amplify electrical potential through staged series charge transfer and compact high-voltage architecture.</td>
       <td>C++</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/bioshieldinnovations/biosensing-bridge"><b>BioSensing Bridge</b></a></td>
-      <td>Firmware layer connecting wearable physiological hardware to artistic, reactive data-visualizations.</td>
+      <td><a href="https://github.com/bioshieldinnovations/biosensing-bridge"><b>NSIHT001</b></a></td>
+      <td>An experimental neuroadaptive system that uses sensory isolation, binaural stimulation, and emotional feedback to create immersive mind-generated experiences.</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/bioshieldinnovations/manifesto-ui"><b>Manifesto UI</b></a></td>
-      <td>Interactive, immersive frontend designs showcasing the philosophical narratives behind our collections.</td>
-      <td>HTML5</td>
+      <td><a href="https://github.com/bioshieldinnovations/manifesto-ui"><b>Aurora</b></a></td>
+      <td>An offline-first assistant built to provide secure access to essential digital tools and locally stored online resources in critical or high-risk situations.</td>
+      <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/bioshieldinnovations/sustainable-workflows"><b>Eco Workflows</b></a></td>
-      <td>Optimization models evaluating environmental impact and life cycles of our experimental series.</td>
+      <td><a href="https://github.com/bioshieldinnovations/sustainable-workflows"><b>MCM</b></a></td>
+      <td>A gesture-driven virtual interface designed to connect human movement with seamless digital control and machine interaction.</td>
       <td>Python</td>
     </tr>
   </tbody>
