@@ -72,7 +72,8 @@ Every series we build targets three goals:
 **Workspace**
 
 <p>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00c9b1"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00c9b1"/>
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=00c9b1"/>
   <img alt="Fusion 360" src="https://img.shields.io/badge/Fusion_360-0d1117?style=for-the-badge&logo=autodesk&logoColor=00c9b1"/>
   <img alt="Discord" src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00c9b1"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00c9b1"/>
