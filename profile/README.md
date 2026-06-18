@@ -148,7 +148,7 @@ Every series we build targets three goals:
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/bioshieldinnovations/manifesto-ui"><b>Aurora</b></a></td>
+      <td><a href="https://github.com/bioshieldinnovations/Aurora"><b>Aurora</b></a></td>
       <td>An offline-first assistant built to provide secure access to essential digital tools and locally stored online resources in critical or high-risk situations.</td>
       <td>Python</td>
     </tr>
